@@ -7,3 +7,7 @@ def sumar(x,y):
 def restar(x,y):
     resta = x - y
     return resta
+
+def multiplicar(x,y):
+    multiplicación = x * y
+    return multiplicación
